@@ -12,7 +12,7 @@ The assignment is also hosted on *GitHub Pages* for easy access.
 ## 📂 Contents of the Repository
 This repository contains the following files:
 
-- 📄 Suhani_500105647_assignment1_devops.pdf - Detailed documentation with commands, explanations, and screenshots.
+- 📄 Sanchit_500102068_assignment1_devops.pdf - Detailed documentation with commands, explanations, and screenshots.
 - 📜 README.md - This file, explaining the project structure and usage.
 
 ---
